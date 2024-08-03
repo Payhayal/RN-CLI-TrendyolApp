@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "component": "categories",
+    "title": "Categories"
+  },
+  {
+    "id": 2,
+    "component": "introduction",
+    "title": "Introduction"
+  },
+  {
+    "id": 3,
+    "component": "specialForYou",
+    "title": "Hayal, Special Products for You"
+  },
+  {
+    "id": 4,
+    "component": "newArrival",
+    "title": "New Products"
+  },
+  {
+    "id": 5,
+    "component": "bestSeller",
+    "title": "Discover Top Products"
+  }
+]
